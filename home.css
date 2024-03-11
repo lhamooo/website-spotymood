@@ -1,0 +1,42 @@
+.title{
+    font-family: 'Lilita One', sans-serif;
+    font-size: 5em;
+    color: white;
+  }
+
+  body {
+    background-color: black;
+}
+
+.col-title{
+    display: flex;
+    justify-content: center;
+    margin-top: 2em;
+}
+
+.col-video{
+    display: flex;
+    justify-content: center;
+    margin-top: 2em;
+}
+
+.button-col{
+    display: flex;
+    justify-content: center;
+    margin-top: 3em;
+}
+
+.prototyp-b{
+    background-color: #ffffff;
+    color: #000000;
+    border: 2px solid #ffffff(25, 4, 130, 0.2);
+    cursor: pointer;
+    border-radius: 30px;
+    font-size: 18px;
+}
+
+.prototyp-b:hover{
+    background-color: #000000;
+    color: #ffffff;
+    border-color: #ffffff;
+}
